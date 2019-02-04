@@ -15,7 +15,7 @@ kramdown:
 
 plugins:
   - jemoji
-
+theme: jekyll-theme-midnight
 ## personalize your slide show
 title:       github-slideshow
 author:      GitHubTeacher
